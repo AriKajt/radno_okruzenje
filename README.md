@@ -3,3 +3,4 @@
 
 - zadatke za vježbu možete pronaći u istoimenom direktoriju unutar ovog repozitorija odnosno na [ovoj](https://github.com/adobrini-algebra/radno_okruzenje/tree/master/zadaci_za_vjezbu) poveznici
 - a ovo je test za konflikt lokalno
+- test za konflikt na githubu
